@@ -1,3 +1,5 @@
+#I don't really understnad what's going on here. I think this is a copy of the other read me that I can merge later... maybe. We shall see.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
