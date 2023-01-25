@@ -4,3 +4,4 @@ num1 = 7
 num2 = 8
 product = num1 * num2
 print(product)
+print("I am testing to see if I can add stuff from VSCode and it will come back")
